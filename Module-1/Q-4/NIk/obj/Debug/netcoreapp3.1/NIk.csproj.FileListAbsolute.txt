@@ -1,0 +1,14 @@
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\bin\Debug\netcoreapp3.1\NIk.exe
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\bin\Debug\netcoreapp3.1\NIk.deps.json
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\bin\Debug\netcoreapp3.1\NIk.runtimeconfig.json
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\bin\Debug\netcoreapp3.1\NIk.runtimeconfig.dev.json
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\bin\Debug\netcoreapp3.1\NIk.dll
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\bin\Debug\netcoreapp3.1\NIk.pdb
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\obj\Debug\netcoreapp3.1\NIk.csproj.AssemblyReference.cache
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\obj\Debug\netcoreapp3.1\NIk.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\obj\Debug\netcoreapp3.1\NIk.AssemblyInfoInputs.cache
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\obj\Debug\netcoreapp3.1\NIk.AssemblyInfo.cs
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\obj\Debug\netcoreapp3.1\NIk.csproj.CoreCompileInputs.cache
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\obj\Debug\netcoreapp3.1\NIk.dll
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\obj\Debug\netcoreapp3.1\NIk.pdb
+E:\.net Core Assignment\.net-core\Module-1\Q-4\NIk\obj\Debug\netcoreapp3.1\NIk.genruntimeconfig.cache
