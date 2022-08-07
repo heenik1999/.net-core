@@ -1,0 +1,14 @@
+E:\.net Core Assignment\Module-1\Q_9\bin\Debug\netcoreapp3.1\Q_9.exe
+E:\.net Core Assignment\Module-1\Q_9\bin\Debug\netcoreapp3.1\Q_9.deps.json
+E:\.net Core Assignment\Module-1\Q_9\bin\Debug\netcoreapp3.1\Q_9.runtimeconfig.json
+E:\.net Core Assignment\Module-1\Q_9\bin\Debug\netcoreapp3.1\Q_9.runtimeconfig.dev.json
+E:\.net Core Assignment\Module-1\Q_9\bin\Debug\netcoreapp3.1\Q_9.dll
+E:\.net Core Assignment\Module-1\Q_9\bin\Debug\netcoreapp3.1\Q_9.pdb
+E:\.net Core Assignment\Module-1\Q_9\obj\Debug\netcoreapp3.1\Q_9.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net Core Assignment\Module-1\Q_9\obj\Debug\netcoreapp3.1\Q_9.AssemblyInfoInputs.cache
+E:\.net Core Assignment\Module-1\Q_9\obj\Debug\netcoreapp3.1\Q_9.AssemblyInfo.cs
+E:\.net Core Assignment\Module-1\Q_9\obj\Debug\netcoreapp3.1\Q_9.csproj.CoreCompileInputs.cache
+E:\.net Core Assignment\Module-1\Q_9\obj\Debug\netcoreapp3.1\Q_9.dll
+E:\.net Core Assignment\Module-1\Q_9\obj\Debug\netcoreapp3.1\Q_9.pdb
+E:\.net Core Assignment\Module-1\Q_9\obj\Debug\netcoreapp3.1\Q_9.genruntimeconfig.cache
+E:\.net Core Assignment\Module-1\Q_9\obj\Debug\netcoreapp3.1\Q_9.csproj.AssemblyReference.cache

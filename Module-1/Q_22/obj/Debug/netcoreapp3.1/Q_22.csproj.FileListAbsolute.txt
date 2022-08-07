@@ -1,0 +1,14 @@
+E:\.net Core Assignment\Module-1\Q_22\bin\Debug\netcoreapp3.1\Q_22.exe
+E:\.net Core Assignment\Module-1\Q_22\bin\Debug\netcoreapp3.1\Q_22.deps.json
+E:\.net Core Assignment\Module-1\Q_22\bin\Debug\netcoreapp3.1\Q_22.runtimeconfig.json
+E:\.net Core Assignment\Module-1\Q_22\bin\Debug\netcoreapp3.1\Q_22.runtimeconfig.dev.json
+E:\.net Core Assignment\Module-1\Q_22\bin\Debug\netcoreapp3.1\Q_22.dll
+E:\.net Core Assignment\Module-1\Q_22\bin\Debug\netcoreapp3.1\Q_22.pdb
+E:\.net Core Assignment\Module-1\Q_22\obj\Debug\netcoreapp3.1\Q_22.csproj.AssemblyReference.cache
+E:\.net Core Assignment\Module-1\Q_22\obj\Debug\netcoreapp3.1\Q_22.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net Core Assignment\Module-1\Q_22\obj\Debug\netcoreapp3.1\Q_22.AssemblyInfoInputs.cache
+E:\.net Core Assignment\Module-1\Q_22\obj\Debug\netcoreapp3.1\Q_22.AssemblyInfo.cs
+E:\.net Core Assignment\Module-1\Q_22\obj\Debug\netcoreapp3.1\Q_22.csproj.CoreCompileInputs.cache
+E:\.net Core Assignment\Module-1\Q_22\obj\Debug\netcoreapp3.1\Q_22.dll
+E:\.net Core Assignment\Module-1\Q_22\obj\Debug\netcoreapp3.1\Q_22.pdb
+E:\.net Core Assignment\Module-1\Q_22\obj\Debug\netcoreapp3.1\Q_22.genruntimeconfig.cache

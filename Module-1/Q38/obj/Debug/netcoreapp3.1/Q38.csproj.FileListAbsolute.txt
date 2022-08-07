@@ -1,0 +1,13 @@
+E:\.net Core Assignment\Module-1\Q38\bin\Debug\netcoreapp3.1\Q38.exe
+E:\.net Core Assignment\Module-1\Q38\bin\Debug\netcoreapp3.1\Q38.deps.json
+E:\.net Core Assignment\Module-1\Q38\bin\Debug\netcoreapp3.1\Q38.runtimeconfig.json
+E:\.net Core Assignment\Module-1\Q38\bin\Debug\netcoreapp3.1\Q38.runtimeconfig.dev.json
+E:\.net Core Assignment\Module-1\Q38\bin\Debug\netcoreapp3.1\Q38.dll
+E:\.net Core Assignment\Module-1\Q38\bin\Debug\netcoreapp3.1\Q38.pdb
+E:\.net Core Assignment\Module-1\Q38\obj\Debug\netcoreapp3.1\Q38.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net Core Assignment\Module-1\Q38\obj\Debug\netcoreapp3.1\Q38.AssemblyInfoInputs.cache
+E:\.net Core Assignment\Module-1\Q38\obj\Debug\netcoreapp3.1\Q38.AssemblyInfo.cs
+E:\.net Core Assignment\Module-1\Q38\obj\Debug\netcoreapp3.1\Q38.csproj.CoreCompileInputs.cache
+E:\.net Core Assignment\Module-1\Q38\obj\Debug\netcoreapp3.1\Q38.dll
+E:\.net Core Assignment\Module-1\Q38\obj\Debug\netcoreapp3.1\Q38.pdb
+E:\.net Core Assignment\Module-1\Q38\obj\Debug\netcoreapp3.1\Q38.genruntimeconfig.cache
