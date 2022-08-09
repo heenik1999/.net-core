@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net Core Assignment\\Module-1\\Q_29\\Q_29.csproj": {}
+    "E:\\.net Core Assignment\\.net-core\\Module-1\\Q_29\\Q_29.csproj": {}
   },
   "projects": {
-    "E:\\.net Core Assignment\\Module-1\\Q_29\\Q_29.csproj": {
+    "E:\\.net Core Assignment\\.net-core\\Module-1\\Q_29\\Q_29.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net Core Assignment\\Module-1\\Q_29\\Q_29.csproj",
+        "projectUniqueName": "E:\\.net Core Assignment\\.net-core\\Module-1\\Q_29\\Q_29.csproj",
         "projectName": "Q_29",
-        "projectPath": "E:\\.net Core Assignment\\Module-1\\Q_29\\Q_29.csproj",
+        "projectPath": "E:\\.net Core Assignment\\.net-core\\Module-1\\Q_29\\Q_29.csproj",
         "packagesPath": "C:\\Users\\shrin\\.nuget\\packages\\",
-        "outputPath": "E:\\.net Core Assignment\\Module-1\\Q_29\\obj\\",
+        "outputPath": "E:\\.net Core Assignment\\.net-core\\Module-1\\Q_29\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shrin\\AppData\\Roaming\\NuGet\\NuGet.Config",

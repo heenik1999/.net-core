@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.net Core Assignment\\Module-1\\Q_39\\Q_39.csproj",
+      "projectUniqueName": "E:\\.net Core Assignment\\.net-core\\Module-1\\Q_39\\Q_39.csproj",
       "projectName": "Q_39",
-      "projectPath": "E:\\.net Core Assignment\\Module-1\\Q_39\\Q_39.csproj",
+      "projectPath": "E:\\.net Core Assignment\\.net-core\\Module-1\\Q_39\\Q_39.csproj",
       "packagesPath": "C:\\Users\\shrin\\.nuget\\packages\\",
-      "outputPath": "E:\\.net Core Assignment\\Module-1\\Q_39\\obj\\",
+      "outputPath": "E:\\.net Core Assignment\\.net-core\\Module-1\\Q_39\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
