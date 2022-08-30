@@ -15,7 +15,7 @@ namespace Q_26
     class test : student
     {
         const int iterationCount = 2;
-        public int[] marks = new int[iterationCount];
+        public int[]marks = new int[iterationCount];
 
 
         public void getMarks()
