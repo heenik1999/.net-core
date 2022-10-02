@@ -1,0 +1,79 @@
+﻿@model IEnumerable<_1.DBContext.Stud>
+
+@{ 
+    ViewData["Title"] = "Result";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(Model => Model.StudId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.FName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.LName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.MobileNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Dob)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.StateId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.CityId)
+            </th>
+        </tr>
+    </thead>
+    <thead>
+        @foreach(var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem =>item.StudId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem =>item.FName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem =>item.LName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem =>item.MobileNumber)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem =>item.Password)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem =>item.Address)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem =>item.Dob)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem =>item.Gender)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem =>item.StateId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem =>item.CityId)
+                    </td>
+                </tr>
+            }
+    </thead>
+</table>

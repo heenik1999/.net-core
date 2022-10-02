@@ -401,9 +401,10 @@ E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\D
 E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\ref\Doctor_Finder.dll
 E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Doctor_Finder.pdb
 E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Doctor_Finder.genruntimeconfig.cache
-E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dr\Index.cshtml.g.cs
-E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dr\admin_Layout.cshtml.g.cs
-E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dr\_ViewStart.cshtml.g.cs
 E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Razor\Areas\Users\Views\_ViewStart.cshtml.g.cs
 E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Razor\Areas\Users\Views\MyUser\Index.cshtml.g.cs
 E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Razor\Areas\Users\Views\_UserLayout.cshtml.g.cs
+E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\DrLayout.cshtml.g.cs
+E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ViewImports.cshtml.g.cs
+E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ViewStart.cshtml.g.cs
+E:\.net Core Assignment\.net-core\Doctor_Finder\Doctor_Finder\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dr\Index.cshtml.g.cs

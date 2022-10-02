@@ -1,0 +1,69 @@
+﻿@model IEnumerable<store_data.Models.Empl>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(Model => Model.EmployeeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Fname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Lname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Mobile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Dob)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Doj)
+            </th>
+            <th>
+                @Html.DisplayNameFor(Model => Model.Password)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem =>item.EmployeeId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem =>item.Fname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem =>item.Lname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem =>item.Mobile)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem =>item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem =>item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem =>item.Dob)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem =>item.Doj)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem =>item.Password)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
